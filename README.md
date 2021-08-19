@@ -1,0 +1,5 @@
+- 🙋🏻‍♂️  Hello World, I’m @nathanwyatt
+- 🐍  Python Engineer in the making 
+- ✔️  Here to find my soul mate... 
+- 👽  This is him (aka 'greenskinz') 
+- ✨  *** Where to reach me ***
