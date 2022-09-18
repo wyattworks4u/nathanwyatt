@@ -1,5 +1,4 @@
 - 🙋🏻‍♂️  Hello World, I’m @nathanwyatt
-- 🐍  Python Engineer in the making 
-- ✔️  Here to find my soul mate.
-- 👽  This is him. Lol
+- 🐍  Python Developer & Social Engineer
+- ✔️  Here to Discover & to Contribute 
 - ✨  To Be Continued...
