@@ -23,7 +23,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"formulahendry.docker-explorer"
+				"formulahendry.docker-explorer",
+				"ms-azuretools.vscode-docker"
 			]
 		}
 	}
